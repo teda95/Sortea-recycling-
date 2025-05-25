@@ -1,2 +1,2 @@
 # Sortea-recycling-
-website for sortea recycling 
+website for sortea recycling
